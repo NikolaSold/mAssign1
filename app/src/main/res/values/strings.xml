@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">mAssign1</string>
+        <string-array name="rates">
+            <item>1 Year Closed 3.14%</item>
+            <item>1 Year Open 4.5%</item>
+            <item>2 Year Closed 3.19%</item>
+            <item>3 Year Closed 3.49%</item>
+        </string-array>
+    <string-array name="years">
+        <item>2 Years</item>
+        <item>3 Years</item>
+        <item>4 Years</item>
+        <item>5 Years</item>
+    </string-array>
+</resources>
